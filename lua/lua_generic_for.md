@@ -20,7 +20,7 @@ for有两种使用形式
 
 ________
 
-泛型for的基本形式是'for <var-list> in <exp-list> do <block> end'
+泛型for的基本形式是`for <var-list> in <exp-list> do <block> end`
 
 泛型for的执行过程由有部
 
